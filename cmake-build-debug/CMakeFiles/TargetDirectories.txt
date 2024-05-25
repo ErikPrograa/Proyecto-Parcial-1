@@ -1,0 +1,3 @@
+C:/Users/Erik/CLionProjects/Proyecto Parcial 1/cmake-build-debug/CMakeFiles/Proyecto_Parcial_1.dir
+C:/Users/Erik/CLionProjects/Proyecto Parcial 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Erik/CLionProjects/Proyecto Parcial 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
